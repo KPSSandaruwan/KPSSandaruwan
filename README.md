@@ -97,7 +97,7 @@
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=KPSSandaruwn&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true)  
 
 -----
-Credits: [Malindu Sasanga](https://github.com/KPSSandaruwn)
+Credits: [Suraja Sandaruwan](https://github.com/KPSSandaruwn)
 
 Last Edited on: 9/20/2021
 
