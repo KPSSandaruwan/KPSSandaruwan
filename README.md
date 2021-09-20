@@ -1,5 +1,5 @@
 <p align="right"> 
-<img src="https://komarev.com/ghpvc/?username=KPSSandaruwan&color=brightgreen" alt="watching_count" />
+<img src="https://komarev.com/ghpvc/?username=KPSSandaruwn&color=brightgreen" alt="watching_count" />
 </p>
 
 
@@ -53,8 +53,8 @@
 <br />
 
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
-<!-- ![Angular] -->
-<!-- [Flutter] -->
+![Angular](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=angular)&nbsp;
+![Flutter](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=flutter)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
 <br />
 
@@ -82,6 +82,24 @@
 ![PyCharm](https://img.shields.io/badge/-PyCharm-05122A?style=flat&logo=PyCharm)
 ![Android Studio](https://img.shields.io/badge/-Android%20Studio-05122A?style=flat&logo=Android-Studio)
 
+
+
+<!-- ## &#x1f4c8; GitHub Stats -->
+### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;**GitHub Stats**
+
+<!-- <p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lkmSasanga&show_icons=true&locale=en&layout=compact&theme=radical" alt="lkmSasanga" /></p> -->
+
+ 
+ <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=KPSSandaruwn&theme=radical" alt="KPSSandaruwn" /></p>
+ 
+ <br />
+ 
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=KPSSandaruwn&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true)  
+
+-----
+Credits: [Malindu Sasanga](https://github.com/KPSSandaruwn)
+
+Last Edited on: 9/20/2021
 
 
 
