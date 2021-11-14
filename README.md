@@ -65,7 +65,7 @@
 
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
 ![Android](https://img.shields.io/badge/-Android-05122A?style=flat&logo=Android)&nbsp;
-![Python](https://img.shields.io/badge/-Android-05122A?style=flat&logo=Python)&nbsp;
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=Python)&nbsp;
 <br />
 
 ![Heroku](https://img.shields.io/badge/-Heroku-05122A?style=flat&logo=Heroku&logoColor=6a0dad)&nbsp;
