@@ -38,7 +38,7 @@
 
 
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
+- 👯 I’m always curious about new technologies
 - ⚡ Fun fact: I love swimming and hicking
 
 <br />
@@ -65,6 +65,7 @@
 
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
 ![Android](https://img.shields.io/badge/-Android-05122A?style=flat&logo=Android)&nbsp;
+![Python](https://img.shields.io/badge/-Android-05122A?style=flat&logo=Python)&nbsp;
 <br />
 
 ![Heroku](https://img.shields.io/badge/-Heroku-05122A?style=flat&logo=Heroku&logoColor=6a0dad)&nbsp;
@@ -99,7 +100,7 @@
 -----
 Credits: [Suraja Sandaruwan](https://github.com/KPSSandaruwn)
 
-Last Edited on: 9/20/2021
+Last Edited on: 11/14/2021
 
 
 
