@@ -1,5 +1,5 @@
 <p align="right"> 
-<img src="https://komarev.com/ghpvc/?username=KPSSandaruwn&color=brightgreen" alt="watching_count" />
+<img src="https://komarev.com/ghpvc/?username=KPSSandaruwan&color=brightgreen" alt="watching_count" />
 </p>
 
 
@@ -91,7 +91,7 @@
 <!-- <p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lkmSasanga&show_icons=true&locale=en&layout=compact&theme=radical" alt="lkmSasanga" /></p> -->
 
  
- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=KPSSandaruwn&theme=radical" alt="KPSSandaruwn" /></p>
+ <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=KPSSandaruwan&theme=radical" alt="KPSSandaruwn" /></p>
  
  <br />
  
