@@ -44,7 +44,8 @@
 <br />
 
 
-### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;**Tech Stack**
+<!-- ### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;**Tech Stack** -->
+### **Tech Stack**
 
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
@@ -86,19 +87,17 @@
 
 
 <!-- ## &#x1f4c8; GitHub Stats -->
-### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;**GitHub Stats**
+<!-- ### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;**GitHub Stats** -->
+### **GitHub Stats**
 
-<!-- <p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lkmSasanga&show_icons=true&locale=en&layout=compact&theme=radical" alt="lkmSasanga" /></p> -->
-
- 
  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=KPSSandaruwan&theme=radical" alt="KPSSandaruwn" /></p>
  
  <br />
  
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=KPSSandaruwn&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true)  
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=KPSSandaruwan&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true)  
 
 -----
-Credits: [Suraja Sandaruwan](https://github.com/KPSSandaruwn)
+Credits: [Suraja Sandaruwan](https://github.com/KPSSandaruwan)
 
 Last Edited on: 11/14/2021
 
