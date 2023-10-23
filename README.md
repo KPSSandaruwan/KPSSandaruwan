@@ -15,15 +15,12 @@
 
 
 <p align="center">
-<a href="https://www.linkedin.com/in/suraja-sandaruwan-58b022196/">
-    <img alt="Suraja's Linkedin" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>&nbsp;
-<!-- <a href="https://twitter.com/lkms06495775">
-    <img  alt="Malindu | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a>&nbsp; -->
-<a href="https://www.facebook.com/suraja.sandaruwan">
-    <img  alt="Malindu | Facebook" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/facebook.svg" />
-</a>
+  <a href="https://www.linkedin.com/in/suraja-sandaruwan-58b022196/">
+      <img alt="Suraja's Linkedin" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  </a>&nbsp;
+  <a href="https://www.facebook.com/suraja.sandaruwan">
+      <img  alt="Suraja | Facebook" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/facebook.svg" />
+  </a>
 </p>
 
 
@@ -88,18 +85,18 @@
 
 <!-- ## &#x1f4c8; GitHub Stats -->
 <!-- ### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;**GitHub Stats** -->
-### **GitHub Stats**
+<!-- ### **GitHub Stats**
 
  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=KPSSandaruwan&theme=radical" alt="KPSSandaruwn" /></p>
  
  <br />
  
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=KPSSandaruwan&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true)  
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=KPSSandaruwan&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true)   -->
 
 -----
 Credits: [Suraja Sandaruwan](https://github.com/KPSSandaruwan)
 
-Last Edited on: 11/14/2021
+Last Edited on: 23/10/2023
 
 
 
